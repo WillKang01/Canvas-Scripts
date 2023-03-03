@@ -10,3 +10,6 @@
 
 ![Alt text](setup.png)
 
+## assign_groups.py
+Input a course id, assignment name, and how many groups you want to create then the script splits all the students into that many groups and assigns them that assignment.
+
